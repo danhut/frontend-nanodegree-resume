@@ -2,7 +2,7 @@ var bio = {
     "name": "Daniel Hutchins",
     "role": "Solutions Architect",
     "contacts": {
-        "email": "innit_29@hotmail.com",
+        "email": "i____@hotmail.com",
         "github": "danhut",
         "twitter": "@wozzit",
         "mobile": "999",
